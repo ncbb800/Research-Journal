@@ -67,8 +67,6 @@ My next step is to build a third Space that directly compares outputs and tests 
 
 fixed seed
 stronger character templates
-repeated feature locking
-side-by-side generations
-reference-image or identity-conditioning research
+with API usage.
 
 This will help turn the failure from Space 2 into a clearer research experiment.
